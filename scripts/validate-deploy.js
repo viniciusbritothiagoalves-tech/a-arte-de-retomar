@@ -25,9 +25,9 @@ const requiredFiles = [
 ];
 
 const expectedCovers = [
-  "public/images/capa-arte-de-retomar.png",
-  "public/images/capa-o-peso-das-escolhas.png",
-  "public/images/capa-nem-todo-pensamento-e-um-fato.png"
+  "images/capa-arte-de-retomar.png",
+  "images/capa-o-peso-das-escolhas.png",
+  "images/capa-nem-todo-pensamento-e-um-fato.png"
 ];
 
 let errors = [];
