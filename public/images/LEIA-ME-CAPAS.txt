@@ -1,0 +1,19 @@
+=======================================================================
+PASTA OFICIAL DAS CAPAS — PENSAVESSO (A ARTE DE RETOMAR)
+=======================================================================
+
+Coloque exatamente nesta pasta (public/images/) os 3 arquivos PNG das capas originais com os seguintes nomes obrigatórios (tudo em letras minúsculas, sem espaços e sem acentos):
+
+1. Capa Principal (A Arte de Retomar):
+   capa-arte-de-retomar.png
+
+2. Capa do Bônus 01 (O Peso das Escolhas):
+   capa-o-peso-das-escolhas.png
+
+3. Capa do Bônus 02 (Nem Todo Pensamento É um Fato):
+   capa-nem-todo-pensamento-e-um-fato.png
+
+COMO FUNCIONA:
+Assim que você colar esses três arquivos PNG dentro desta pasta, os quadros provisórios (placeholders) da página de vendas desaparecerão automaticamente e as capas originais passarão a ser exibidas em todas as seções do site.
+
+Para mais detalhes, consulte o arquivo GUIA-DAS-CAPAS.md na raiz do projeto.
